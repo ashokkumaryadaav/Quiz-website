@@ -1,12 +1,16 @@
 # Quiz-website
-#frontend :
+frontend :
 
-#$ cd SecureQuiz
+$ cd SecureQuiz
+
 #$ cd quiz
+
 #$ npm install
+
 $ ng serve 
 
 backend:
+
 $ cd QuizyBackend
 
 $ npm install
